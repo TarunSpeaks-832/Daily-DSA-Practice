@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 ## String
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
+## Greedy
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
