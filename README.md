@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -26,16 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
@@ -46,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -55,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 ## Greedy
@@ -98,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
