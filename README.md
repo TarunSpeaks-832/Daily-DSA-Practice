@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Design
 |  |
 | ------- |
