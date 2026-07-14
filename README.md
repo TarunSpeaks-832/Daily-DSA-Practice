@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 ## Two Pointers
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 ## Design
 |  |
 | ------- |
