@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
