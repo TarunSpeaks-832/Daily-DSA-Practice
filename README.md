@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
