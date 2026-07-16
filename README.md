@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
