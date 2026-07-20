@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
+| [1260-shift-2d-grid](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
