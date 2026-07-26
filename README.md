@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1260-shift-2d-grid](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
