@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Linked List
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0846-hand-of-straights) |
 | [1260-shift-2d-grid](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -190,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Counting Sort
 |  |
 | ------- |
@@ -212,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/TarunSpeaks-832/Daily-DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
